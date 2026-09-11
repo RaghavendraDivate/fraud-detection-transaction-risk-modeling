@@ -1243,7 +1243,3 @@ A production fraud-detection system would require institution-specific data,
 cost structures, validation procedures, monitoring, governance, security, and
 operational constraints.
 
-```
-
-Next we'll do the practical GitHub packaging: **`.gitignore` + `requirements.txt` + final notebook naming/placement**, and then we're basically done.
-```
