@@ -1249,9 +1249,5 @@ operational constraints.
 
 ```
 
-### One thing before GitHub
-
-There is **one structural detail** we should fix before you push this: the README currently assumes the repository has a `notebooks/` folder and the six notebook names shown above. If your actual project currently has the notebooks sitting somewhere else, **don't manually rearrange everything yet**.
-
 Next we'll do the practical GitHub packaging: **`.gitignore` + `requirements.txt` + final notebook naming/placement**, and then we're basically done.
 ```
