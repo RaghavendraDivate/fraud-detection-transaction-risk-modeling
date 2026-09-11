@@ -1,7 +1,3 @@
-You're right, boss. Let's do it **properly**: one clean, professional `README.md`, with no unnecessary explanations around it. It should read like a serious Data Science portfolio project and reflect the work you actually completed.
-
-Copy **everything inside this block** into `README.md`.
-
 ````markdown
 # Fraud Detection & Transaction Risk Modeling Pipeline
 
